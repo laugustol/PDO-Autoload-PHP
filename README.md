@@ -1,2 +1,2 @@
-# PDO-Autoload-PHP
-Breve ejemplo de una conexion PDO con Autolaod
+# PDO-SINGLETON-PHP
+Conexion PDO con SIGLETON y Autoload
